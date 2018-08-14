@@ -2,10 +2,10 @@
 layout: post
 title: רשומה ראשונה בעברית!
 published: true
-image: https://raw.githubusercontent.com/nadavhal/nadavhal.github.io/master/images/me.jpg
+image:
 ---
 
-הייתם מאמינים רשומה ראשונה בעברית :)
+היי זה שלמה :)
 
 ייאיי
 
