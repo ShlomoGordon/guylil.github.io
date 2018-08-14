@@ -1,6 +1,6 @@
 ---
 layout: post
-title: רשומה ראשונה בעברית!
+title: ברוכים הבאים לבלוג של שלמה גורדון!
 published: true
 image:
 ---
